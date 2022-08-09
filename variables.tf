@@ -25,4 +25,3 @@ variable "tags" {
     "createdby"   = "terraform"
   }
 }
-
